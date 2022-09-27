@@ -1,2 +1,2 @@
 TT    Mã SV   Họ tên    Ngày sinh
-1 18574802010145 Trần Doãn Khoát 06-05-1999
+18574802010145 Trần Doãn Khoát 06-05-1999
