@@ -1,1 +1,2 @@
 TT    Mã SV   Họ tên    Ngày sinh
+1 11111 Trần Doãn Khoát 09-09-2000
