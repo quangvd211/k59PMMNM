@@ -1,1 +1,2 @@
 TT    MaSV    Họ tên    Ngày sinh 
+1   18574802010008    Lương Thị Mỹ Hương    27/05/2000
