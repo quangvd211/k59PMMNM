@@ -1,1 +1,2 @@
-TT    MaSV    Họ tên    Ngày sinh 
+TT    MaSV            Họ tên          Ngày sinh 
+1     18574801020103  Nguyễn Bá Lương 11/11/2000
