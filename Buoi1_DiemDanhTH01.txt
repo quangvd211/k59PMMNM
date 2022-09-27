@@ -1,1 +1,2 @@
-TT    MaSV    Họ tên    Ngày sinh 
+TT    MaSV             Họ tên           Ngày sinh 
+1   18574802010064  Thái Thị Hương Ly   13/01/2000
