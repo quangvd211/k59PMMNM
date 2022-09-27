@@ -1,2 +1,2 @@
 TT    MaSV    Họ tên    Ngày sinh 
-1     18574802010104    Cao Manh Duy 10/10/2000
+1     18574802010104    Cao Manh    Duy 10/10/2000
