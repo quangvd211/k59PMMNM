@@ -1,1 +1,2 @@
-TT    Mã SV   Họ tên    Ngày sinh
+TT    Mã SV                 Họ tên           Ngày sinh
+∞     18574802010127        Hồ Văn Lợi       01/08/1998
