@@ -1,1 +1,2 @@
 TT    MaSV    Họ tên    Ngày sinh 
+1     18574802010179  Nguyễn Đăng Kiên  22/07/2000
