@@ -1,1 +1,2 @@
 TT    MaSV    Họ tên    Ngày sinh 
+1    18574802010099 Pham_Thi_Thu_Tra 07/07/2000
