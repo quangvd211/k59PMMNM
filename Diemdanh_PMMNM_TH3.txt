@@ -1,1 +1,2 @@
 TT    Mã SV   Họ tên    Ngày sinh
+1     18574802010211  Nguyễn Bá Tuấn  20/07/2000
