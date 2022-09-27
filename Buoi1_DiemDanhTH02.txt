@@ -1,1 +1,2 @@
-TT    Mã SV   Họ tên    Ngày sinh
+TT    Mã SV   Họ tên    Ngày sinh·
+1     18574802010161 Nguyễn Thị Hằng 29/03/2000
