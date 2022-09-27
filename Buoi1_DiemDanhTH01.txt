@@ -1,1 +1,2 @@
-TT    MaSV    Họ tên    Ngày sinh 
+TT    MaSV            Họ tên        Ngày sinh 
+1     18574802010063  Lê Văn Hoàng  14/11/2000
