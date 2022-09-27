@@ -1,1 +1,2 @@
-TT    MaSV    Họ tên    Ngày sinh 
+TT    MaSV            Họ tên                Ngày sinh 
+1   18574802010024   Nguyễn Thị Mai Lương   26/03/2000
