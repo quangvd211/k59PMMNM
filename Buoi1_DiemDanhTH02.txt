@@ -1,1 +1,2 @@
 TT    Mã SV   Họ tên    Ngày sinh
+1   18574802010225  Trần Lê Minh    20/10/1997
