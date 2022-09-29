@@ -1,1 +1,2 @@
 TT    Mã SV   Họ tên    Ngày sinh
+1   18574802010004  Nguyễn Văn Tú   10/08/1999
