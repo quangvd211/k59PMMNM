@@ -1,1 +1,2 @@
-TT    Mã SV   Họ tên    Ngày sinh
+TT    Mã SV              Họ tên          Ngày sinh
+01    19574802010123     Trần Anh Khôi   27/03/2001
